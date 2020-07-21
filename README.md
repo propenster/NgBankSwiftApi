@@ -1,5 +1,5 @@
 # NG Banks Swift RESTful API
-##### Description: NG Bank Swift API is a an API endpoint created for Swift Codes of all Banks in Nigeria
+Description: NG Bank Swift API is a an API endpoint created for Swift Codes of all Banks in Nigeria
 It's not hosted yet but you can test run it on your localhost....
 
 ## To Bootstrap...
